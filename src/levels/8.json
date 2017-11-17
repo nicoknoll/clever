@@ -1,0 +1,88 @@
+{
+	"player": {
+		"x": -40,
+		"y": 280
+	},
+	"enemies": [
+		{
+			"x": 0,
+			"y": 0,
+			"width": 800,
+			"height": 200,
+			"color": "white"
+		},
+		{
+			"x": 0,
+			"y": 400,
+			"width": 800,
+			"height": 200,
+			"color": "white"
+		},
+
+		{
+			"yRange": [
+				200,
+				400
+			],
+			"speed":2,
+			"x": 160,
+			"y": 360,
+			"width": 100,
+			"height": 200,
+			"color": "white"
+		},
+		{
+			"yRange": [
+				200,
+				400
+			],
+			"speed":2,
+			"x": 260,
+			"y": 320,
+			"width": 100,
+			"height": 200,
+			"color": "white"
+		},
+		{
+			"yRange": [
+				200,
+				400
+			],
+			"speed":2,
+			"x": 360,
+			"y": 280,
+			"width": 100,
+			"height": 200,
+			"color": "white"
+		},
+		{
+			"yRange": [
+				200,
+				400
+			],
+			"speed":2,
+			"x": 460,
+			"y": 240,
+			"width": 100,
+			"height": 200,
+			"color": "white"
+		},
+		{
+			"yRange": [
+				200,
+				400
+			],
+			"speed":2,
+			"x": 560,
+			"y": 200,
+			"width": 100,
+			"height": 200,
+			"color": "white"
+		}
+		
+	],
+	"goal": {
+		"x": 740,
+		"y": 240
+	}
+}

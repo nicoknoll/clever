@@ -1,0 +1,52 @@
+{
+	"player": {
+		"x": 20,
+		"y": 20
+	},
+	"enemies": [
+		{
+			"x": 350,
+			"y": 0,
+			"width": 200,
+			"height": 40,
+			"color": "white"
+		},
+		{
+			"yRange": [
+				40,
+				300
+			],
+			"x": 400,
+			"y": 40,
+			"speed": 7,
+			"width": 80,
+			"height": 80,
+			"color": "white"
+		},
+		{
+			"x": 370,
+			"y": 380,
+			"width": 180,
+			"height": 180,
+			"color": "white"
+		},
+		{
+			"x": 300,
+			"y": 440,
+			"width": 180,
+			"height": 180,
+			"color": "white"
+		},
+		{
+			"x": 250,
+			"y": 540,
+			"width": 180,
+			"height": 180,
+			"color": "white"
+		}
+	],
+	"goal": {
+		"x": 700,
+		"y": 540
+	}
+}

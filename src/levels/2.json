@@ -1,0 +1,26 @@
+{
+    "player": {
+        "x": 120,
+        "y": 120
+    },
+    "enemies": [
+        {
+            "x": 560,
+            "y": 0,
+            "width": 190,
+            "height": 320,
+            "color": "white"
+        },
+        {
+            "x": 240,
+            "y": 300,
+            "width": 180,
+            "height": 300,
+            "color": "white"
+        }
+    ],
+    "goal": {
+        "x": 740,
+        "y": 500
+    }
+}
