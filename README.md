@@ -1,7 +1,7 @@
 # Clever
 A remastered version of "Clever" using HTML5 Canvas and Webpack
 
-
+![](https://raw.githubusercontent.com/nicoknoll/clever/master/screenshots/2.png)
 
 ## Origin
 
@@ -25,3 +25,10 @@ To build a production ready version run `npm run build`.
 
 ## Gameplay
 
+![](https://raw.githubusercontent.com/nicoknoll/clever/master/screenshots/1.png)
+
+![](https://raw.githubusercontent.com/nicoknoll/clever/master/screenshots/2.png)
+
+![](https://raw.githubusercontent.com/nicoknoll/clever/master/screenshots/3.png)
+
+![](https://raw.githubusercontent.com/nicoknoll/clever/master/screenshots/4.png)
